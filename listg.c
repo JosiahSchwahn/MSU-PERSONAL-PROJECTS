@@ -3,8 +3,7 @@
 #include <stdlib.h>
 #include "grades.h"
 
-//Inserts the new stundet in the list from the file
-
+//Inserts the new stundet in the list from the files
 
 void ListInsert(Node_t** head, Student_t* st){
 	
